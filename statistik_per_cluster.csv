@@ -1,4 +1,0 @@
-,Quantity,Quantity,Quantity,Quantity,Quantity,UnitPrice,UnitPrice,UnitPrice,UnitPrice,CustomerID
-,mean,median,min,max,count,mean,median,min,max,nunique
-Cluster,,,,,,,,,,
-1,-0.02,-0.02,-0.02,-0.02,5,-0.01,-0.0,-0.01,-0.0,1
